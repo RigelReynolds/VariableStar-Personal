@@ -1,0 +1,45 @@
+LEGEND,DONE,,,,,,,,,,,,
+,IN PROGRESS,,,,,,,,,,,,
+,ROAD-BLOCKED,,,,,,,,,,,,
+,,,,,,,,,,,,,
+KIC03853259,UT221118/a.0027,0.232,yes,ThAr,FIX THESE,N/A,yes,yes,,,,unspotted contact,
+,UT241012/a.0017,0.894,yes,ThAr,FIX THESE,,s041-55 (10 min),3,,,,,
+KIC04563150,UT221118/a.0034,0.214,yes,ThAr,FIX THESE,N/A,yes,yes,,,,unspotted contact,earlier sectors excluded due to 30 minute cadence
+,UT241022/a.0013,0.886,yes,ThAr,FIX THESE,,s040-55 (10 min),3,,,,,"s074 excluded cuz it doesn't share our values, later sectors excluded cuz not great quality"
+KIC07744173,UT220601/a.0022,0.279,yes,ThAr,yes,N/A,yes,yes,KIC.../,,,unspotted contact,
+,UT220905/a.0022,0.785,yes,ThAr (kinda),yes,,s053-55 (10 min),3,,,"NEED TO RUN SPOT CASE, DEVELOP CODE FOR THAT!",eventually to transition to spotted contact,
+KIC07871200,UT221027/a.0026,0.374,yes,ThAr,yes,yes,yes,yes,"KIC...2/, KIC...3/, KIC...4/",,,unspotted contact,"earlier sectors excluded because of 10-30 minute cadence and short period of target, and the 10 minute cadence was causing weird things to happen with the LC"
+,UT221025/a.0017,0.851,yes,ThAr,yes,0.13,"s074,80,81 (2 min)",7,"ran (0.4, 0.3, 0.2 horvat) running",,ran LC interac,,GOING FAIRLY WELL
+KIC09414905,UT220601/a.0025,0.245,yes,ThAr,yes,no,yes,yes,"KIC.../, KIC...2/",KIC...3/,,unspotted contact,GOING VERY WELL!!!
+,UT221021/a.0020,0.733,yes,ThAr,yes,,"s041-82 (2,10 min)",5,"0.1, 0.2",ran (0.17),,,"s014,15 excluded because 30 minute cadence, s040 excluded because terrible quality"
+KIC09772642,UT220829/a.0026,0.217,yes,ThAr,yes,N/A,yes,yes,KIC.../,,"NEED TO RUN SPOT CASE, DEVELOP CODE FOR THAT!",unspotted contact,GOING VERY WELL!!!
+,UT220905/a.0026,0.721,yes,ThAr (kinda),yes,,"s040-81 (2,10 min)",5,,,,eventually to transition to spotted contact,early sectors excluded due to 30 minute cadence
+KIC09838047,UT220829/a.0027,0.174,yes,ThAr,yes,no,yes,yes,KIC.../,,"NEED TO RUN SPOT CASE, DEVELOP CODE FOR THAT!",unspotted contact,GOING VERY WELL!!!
+,UT221021/a.0029,0.668,yes,ThAr,yes,,"s040-82 (2,10 min)",5,,,but can start with normal,eventually to transition to spotted contact,early sectors excluded due to 30 minute cadence
+KIC10619506,UT221118/a.0022,0.444,yes,ThAr,yes,N/A,yes,yes,KIC.../,KIC...2/,,unspotted contact,early sectors excluded due to 30 minute cadence
+,UT221027/a.0010,0.703,yes,ThAr,yes,,"s041-83 (2,10 min)",11,running (0.15),ran (bad),,,
+KIC11295026,UT220905/a.0021,0.239,yes,ThAr (kinda),yes,N/A,yes,yes,KIC.../,KIC...2/,,unspotted contact,early sectors excluded due to 30 minute cadence
+,UT220529/a.0029,0.717,yes,ThAr,yes,,"s040-82 (2,10 min)",5,ran (0.25),ran (0.2 horvat VERY GOOD),ran LC interac,,spline=0.155
+KIC11402381,UT210711/a.0007,0.344,yes,ThAr,yes,N/A,yes,yes,"KIC.../, KIC...2/",KIC...3/,,unspotted contact,GOING OKAY
+,UT220529/a.0022,0.735,yes,ThAr,yes,,s040-55 (10 min),3,"ran (0.25), ran (0.2)",running (0.2 horvat),,,
+KIC12019674,UT241022/a.0019,,yes,ThAr,???,yes,yes,yes,,,,,IS THE PHASING REALLY THIS TERRIBLE???
+,UT241012/a.0021,,yes,ThAr,???,,s041-56 (10 min),5,,,,,
+,,,,,,,,,,,,,
+KIC07304911,,"ETL, come back to this",yes,ThAr,yes,no,yes,yes,,,,ETL too strong to do joint fit,
+,,,yes,ThAr,yes,,s041-55 (10 min),3,,,,,
+,,,,,,,,,,,,,
+KIC05891963,,,,,,,,,,,,ETL,
+,,,,,,,,,,,,,
+KIC06613627,,,,,,,,,,,,Delta Scuti,
+,,,,,,,,,,,,,
+KIC08045121,,,,,,,,,,,,Delta Scuti,
+,,,,,,,,,,,,,
+KIC09239684,,,,,,,,,,,,rotating variable?,
+,,,,,,,,,,,,,
+KIC09760531,,,,,,,,,,,,Delta Scuti,
+,,,,,,,,,,,,,
+KIC09898401,,,,,,,,,,,,Delta Scuti,
+,,,,,,,,,,,,,
+KIC11137143,,,,,,,,,,,,ETL,
+,,,,,,,,,,,,,
+KIC11825204,,,,,,,,,,,,Delta Scuti,
